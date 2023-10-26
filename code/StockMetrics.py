@@ -18,7 +18,8 @@ class StockMetrics(StockData):
         """
         averages = []
         for row in self.data:
-            print(row)
+            for val in row:
+                print(val)
 
         return averages
 
