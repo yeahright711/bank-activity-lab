@@ -5,7 +5,7 @@ Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisc
 Begin reading `instructions.md` to get started.
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to engineer a Python pipeline for analyzing stock data. The machine learning team intends to process terabytes of data and integrate it with daily news headlines to assess the reliability of sentiment analysis in predicting stock prices. The team has opted for a Python-based approach, emphasizing the the flexibility and simplicity of implementation. The completion of this project involves refining and expanding existing python classes to handle the analysis task differently. The civic impact lies in the potential enhancement of stock prediction models, contributing to more informed financial decisions for both individual and institutional investors in the Portuguese market.
 
 ### Methods Used
 * Inferential Statistics
@@ -25,4 +25,6 @@ The purpose of this project is ________. (Describe the main goals of the project
 * etc. 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+* Implementation of statistical metrics
+* Comprehensive understanding of stock data dynamics 
+* Debugging
